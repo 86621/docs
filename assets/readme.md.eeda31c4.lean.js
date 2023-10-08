@@ -1,0 +1,1 @@
+import{_ as e,s as a,q as t,S as i}from"./chunks/framework.26d7e063.js";const f=JSON.parse('{"title":"koishi.chat","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),o={name:"readme.md"},r=i("",5),s=[r];function h(c,_,d,n,l,p){return t(),a("div",null,s)}const k=e(o,[["render",h]]);export{f as __pageData,k as default};
